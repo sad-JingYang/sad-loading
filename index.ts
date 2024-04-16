@@ -1,5 +1,5 @@
 import { createApp, ref, h } from 'vue';
-import Loading from 'Loading.vue';
+import Loading from './Loading.vue';
 
 let loadingInstance: any = null;
 
