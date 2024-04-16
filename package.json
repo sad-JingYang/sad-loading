@@ -1,0 +1,28 @@
+{
+  "name": "ljy-loading",
+  "private": false,
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "vue": "^3.4.21"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://"
+  },
+  "author": "ljy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://"
+  },
+  "homepage": "https://",
+  "keywords": [
+    "sad-loading",
+    "loading",
+    "ljy"
+  ]
+}
